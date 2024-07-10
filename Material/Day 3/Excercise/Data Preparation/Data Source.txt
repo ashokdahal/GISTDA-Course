@@ -1,0 +1,12 @@
+https://www.gsi.go.jp/BOUSAI/R1.taihuu19gou.html Link to the event and photos and video
+
+Source: https://arxiv.org/pdf/2406.04111v1#page=9.09
+
+China Sample GT: https://huggingface.co/datasets/S1Floodbenchmark/UrbanSARFloods_v1/resolve/main/testing_case_orig/20210727_Weihui/20210727_Weihui_GT.tif?download=true
+China Sample Image:https://huggingface.co/datasets/S1Floodbenchmark/UrbanSARFloods_v1/resolve/main/testing_case_orig/20210727_Weihui/20210727_Weihui_SAR.tif?download=true
+
+The imagery in our dataset has 8 bands, including 2 bands (VV and
+VH) for Sentinel-1 intensity acquired pre-event, 2 bands
+(VV and VH) for Sentinel-1 intensity acquired post-event, 2
+bands (VV and VH) for Sentinel-1 coherence acquired preevent, and 2 bands (VV and VH) for Sentinel-1 intensity
+acquired post-event.
