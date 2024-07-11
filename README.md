@@ -1,7 +1,9 @@
 # Tentative Schedule
-![Course Content](Course Details/Content.png)
+<img src="Course Details/Content.png" alt="Course Content"/>
+
 # Material
-This provides codes for the practical sessions of AI for Urban Flooding course given by Ashok Dahal. To open each excercise click on the following links:
+This provides codes for the practical sessions of the AI for Urban Flooding course given by Ashok Dahal. To open each excercise click on the following links:
+
 ## Simple ANN Model
 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANN.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
