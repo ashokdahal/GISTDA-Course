@@ -5,16 +5,20 @@
 This provides codes for the practical sessions of the AI for Urban Flooding course given by Ashok Dahal. To open each excercise click on the following links:
 
 ## Day 1 Practice from Scikit-Learn
-### 1 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANN.ipynb">
+### 1 Least Squares
+ <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/Practice/plot_nnls.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-### 2 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANN.ipynb">
+### 2 Linear Regression
+ <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/Practice/plot_ols.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-### 3 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANN.ipynb">
+### 3 Logistic Regression
+ <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/Practice/plot_logistic.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-### 4 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANN.ipynb">
+### 4 Gradient Descent
+ <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/Practice/plot_sgd_early_stopping.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
