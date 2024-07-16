@@ -4,4 +4,7 @@
 **/*.nc
 **/*.tif
 **/*.tiffs
+**/*.npy
+**/*.gpkg
+**/*.zip
 Dataset/
