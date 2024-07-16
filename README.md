@@ -44,7 +44,7 @@ This provides codes for the practical sessions of the AI for Urban Flooding cour
 </a>
 
 ### 3.2 Data Preparation with Vector and Raster
-<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Data%20Preparation/Simplified%20Example.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/Data%20Preparation/Simplified%20Example.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
