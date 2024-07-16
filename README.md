@@ -38,22 +38,22 @@ This provides codes for the practical sessions of the AI for Urban Flooding cour
 </a>
 
 ## Day 3 Practice of Data Preparation for Modelling
-### 3.1 Data Downloading via Copernicus Data Space Ecosystem and OpenEO (Optional)
-<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/Data%20Preparation/DataDownload.ipynb">
+### 3.1 Data Preparation with GEE and Python for Flood Modelling
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/Data%20Preparation/DataPrepModelling.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### 3.2 Data Preparation with Vector and Raster
-<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/Data%20Preparation/Simplified%20Example.ipynb">
+### 3.2 Data Preparation for Flood Mapping
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/Data%20Preparation/DataPreparationMapping.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### 3.3 Data Preparation with Raster and Raster (Test case Flood)
-<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/Data%20Preparation/DataPreparation.ipynb">
+### 3.3 Flood Modelling
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/Model%20Building/Modelling.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### 3.4 Preparing a Full-Flex Model and Training it
-<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/Model%20Building/Model.ipynb">
+### 3.4 Flood Mapping
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/Model%20Building/Mapping.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
