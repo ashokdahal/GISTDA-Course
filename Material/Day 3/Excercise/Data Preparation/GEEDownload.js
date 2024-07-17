@@ -1,4 +1,4 @@
-// Display The AOI
+// Display The AOI To add AOI to your project: download AOI from https://zenodo.org/records/12751419/files/AOI_prichit.zip?download=1 and then upload it in GEE
 Map.addLayer(aoi, {color: 'FF0000'}, 'colored');
 
 
