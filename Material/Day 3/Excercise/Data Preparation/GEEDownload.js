@@ -32,7 +32,7 @@ var Chrips = ee.ImageCollection('UCSB-CHG/CHIRPS/DAILY').filterBounds(aoi).filte
 
 // // ****************** Prepare NDVI Data ****************** //
 
-var ndvi = ee.ImageCollection("LANDSAT/LC08/C01/T1_32DAY_NDVI").select('NDVI').filterBounds(aoi).filterDate(startdate,enddate).max().clip(aoi).float();
+var ndvi = ee.ImageCollection("LANDSAT/COMPOSITES/C02/T1_L2_32DAY_NDVI").select('NDVI').filterBounds(aoi).filterDate(startdate,enddate).max().clip(aoi).float();
 
 // ****************** Combine them all in a single collection ******************
 
