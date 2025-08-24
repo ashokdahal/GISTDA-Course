@@ -15,7 +15,7 @@ Change Detection:  <a target="_blank" href="https://colab.research.google.com/gi
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-## Tutorials on GeoAI
+## Tutorials on GeoAI: Day 1
 ### 1.1 Random Forest
  <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/RandomForestUCMERCED.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
