@@ -1,5 +1,5 @@
 # Tentative Schedule
-<img src="Course Details/Content.png" alt="Course Content"/>
+<img src="Course Details/Content2025.png" alt="Course Content"/>
 
 # Material
 This provides codes for the practical sessions of "Geo-AI for Remote Sensing Professionals" course given by Ashok Dahal. To open each excercise click on the following links:
