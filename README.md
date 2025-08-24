@@ -6,6 +6,7 @@ This provides codes for the practical sessions of "Geo-AI for Remote Sensing Pro
 
 ## First Things First:
 *Downloading/finding remote sensing data:* 
+
 Downloading Image:<a target="_blank" href="https://github.com/ashokdahal/bigdata-geoai/blob/main/bigdata-excercises/DownloadImage.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
