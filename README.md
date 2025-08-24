@@ -5,22 +5,22 @@
 This provides codes for the practical sessions of "Geo-AI for Remote Sensing Professionals" course given by Ashok Dahal. To open each excercise click on the following links:
 
 ## Day 1 Practice from Scikit-Learn
-### 1.1 Least Squares
- <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/Practice/plot_nnls.ipynb">
+### 1.1 Random Forest
+ <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/RandomForestUCMERCED.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### 1.2 Linear Regression
+### 1.2 Linear Regression (optional)
  <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/Practice/plot_ols.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### 1.3 Logistic Regression
+### 1.3 Logistic Regression (optional)
  <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/Practice/plot_logistic.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### 1.4 Gradient Descent
+### 1.4 Gradient Descent (extra)
  <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/Practice/plot_sgd_early_stopping.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
