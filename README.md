@@ -4,6 +4,16 @@
 # Material
 This provides codes for the practical sessions of "Geo-AI for Remote Sensing Professionals" course given by Ashok Dahal. To open each excercise click on the following links:
 
+## First Things First:
+*Downloading/finding remote sensing data:* 
+Downloading Image:<a target="_blank" href="https://github.com/ashokdahal/bigdata-geoai/blob/main/bigdata-excercises/DownloadImage.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Change Detection:  <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/RandomForestUCMERCED.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Day 1 Practice from Scikit-Learn
 ### 1.1 Random Forest
  <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/RandomForestUCMERCED.ipynb">
