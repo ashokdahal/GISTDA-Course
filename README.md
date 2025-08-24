@@ -2,7 +2,7 @@
 <img src="Course Details/Content.png" alt="Course Content"/>
 
 # Material
-This provides codes for the practical sessions of the AI for Urban Flooding course given by Ashok Dahal. To open each excercise click on the following links:
+This provides codes for the practical sessions of "Geo-AI for Remote Sensing Professionals" course given by Ashok Dahal. To open each excercise click on the following links:
 
 ## Day 1 Practice from Scikit-Learn
 ### 1.1 Least Squares
