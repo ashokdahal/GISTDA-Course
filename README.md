@@ -36,6 +36,20 @@ Change Detection:  <a target="_blank" href="https://colab.research.google.com/gi
  <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/Practice/plot_sgd_early_stopping.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+## Tutorials on GeoAI: Day 1
+
+### 2.1 Simple ANN Model
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANNLandcover.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+### 2.2 Simple CNN Model
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/CNN/CNNLandcover.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 <!--
 ### 2.1 Simple ANN Model
 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANN.ipynb">
