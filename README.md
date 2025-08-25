@@ -16,18 +16,19 @@ Change Detection:  <a target="_blank" href="https://colab.research.google.com/gi
 </a>
 
 ## Tutorials on GeoAI: Day 1
-### 1.1 Random Forest
- <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/RandomForestUCMERCED.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
 
-### 1.2 Linear Regression (optional)
+### 1.1 Linear Regression 
  <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/Practice/plot_ols.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### 1.3 Logistic Regression (optional)
+### 1.2 Logistic Regression 
  <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/Practice/plot_logistic.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+### 1.3 Random Forest
+ <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%201/RandomForestUCMERCED.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
