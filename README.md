@@ -46,7 +46,7 @@ Change Detection:  <a target="_blank" href="https://colab.research.google.com/gi
 
 
 ### 2.2 Simple CNN Model
-<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/CNN/CNNLandcover.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/CNN/CNNLandcover_v3.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
