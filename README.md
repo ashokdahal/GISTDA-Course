@@ -37,7 +37,7 @@ Change Detection:  <a target="_blank" href="https://colab.research.google.com/gi
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-## Tutorials on GeoAI: Day 1
+## Tutorials on GeoAI: Day 2
 
 ### 2.1 Simple ANN Model
 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANNLandcover.ipynb">
