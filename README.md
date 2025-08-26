@@ -50,11 +50,28 @@ Change Detection:  <a target="_blank" href="https://colab.research.google.com/gi
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### 2.2 CNN Model from Scratch
+### 2.3 CNN Model from Scratch
 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/bigdata-geoai/blob/main/geoai-excercises/lec3/CNN.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+## Tutorials on GeoAI: Day 3
+
+### 3.1 Simple RNN Model
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANNLandcover.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+### 3.2 Preparing Data for Mapping (building Segmentation)
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/CNN/CNNLandcover_v3.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+### 3.3 Building Segmentation
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/bigdata-geoai/blob/main/geoai-excercises/lec3/CNN.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 <!--
 ### 2.1 Simple ANN Model
 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANN.ipynb">
