@@ -58,18 +58,18 @@ Change Detection:  <a target="_blank" href="https://colab.research.google.com/gi
 ## Tutorials on GeoAI: Day 3
 
 ### 3.1 Simple RNN Model
-<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANNLandcover.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/NDVI%20Timeseries.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 
 ### 3.2 Preparing Data for Mapping (building Segmentation)
-<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/CNN/CNNLandcover_v3.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/DataPrepBuilding.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ### 3.3 Building Segmentation
-<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/bigdata-geoai/blob/main/geoai-excercises/lec3/CNN.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/BuildingSegmentation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <!--
