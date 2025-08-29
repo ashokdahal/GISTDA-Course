@@ -72,6 +72,12 @@ Change Detection:  <a target="_blank" href="https://colab.research.google.com/gi
 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%203/Excercise/BuildingSegmentation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+# Extra stuff:
+Prediction and Save:  https://github.com/ashokdahal/GISTDA-Course/blob/master/Material/prediction_code.ipynb
+
+Sugarcane Mapping: https://github.com/ashokdahal/GISTDA-Course/blob/master/Material/SugarcaneUnsupervised.ipynb
+
 <!--
 ### 2.1 Simple ANN Model
 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/GISTDA-Course/blob/master/Material/Day%202/Excercise/ANN/ANN.ipynb">
